@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccc64e71.css",
+    "main.js": "/static/js/main.7bb0ab58.js",
+    "static/media/qrlogo.jpg": "/static/media/qrlogo.f7067fa95549d33b90a9.jpg",
+    "static/media/island2.png": "/static/media/island2.5c2b66a04635a727c3e6.png",
+    "static/media/island1.png": "/static/media/island1.ebfa8e1b3b0cf88f0c4f.png",
+    "index.html": "/index.html",
+    "static/media/spinner.svg": "/static/media/spinner.6a5b4d40aadcd160542ff21a1b60991d.svg",
+    "main.ccc64e71.css.map": "/static/css/main.ccc64e71.css.map",
+    "main.7bb0ab58.js.map": "/static/js/main.7bb0ab58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc64e71.css",
+    "static/js/main.7bb0ab58.js"
+  ]
+}
