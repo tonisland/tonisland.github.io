@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e7f70e3c.css",
-    "main.js": "/static/js/main.2e5dc61b.js",
+    "main.js": "/static/js/main.e27966d1.js",
     "static/media/qrlogo.jpg": "/static/media/qrlogo.f7067fa95549d33b90a9.jpg",
     "static/media/island2.png": "/static/media/island2.5c2b66a04635a727c3e6.png",
     "static/media/island3.png": "/static/media/island3.4d5da11d1c159dfd5ab2.png",
@@ -11,10 +11,10 @@
     "index.html": "/index.html",
     "static/media/spinner.svg": "/static/media/spinner.6a5b4d40aadcd160542ff21a1b60991d.svg",
     "main.e7f70e3c.css.map": "/static/css/main.e7f70e3c.css.map",
-    "main.2e5dc61b.js.map": "/static/js/main.2e5dc61b.js.map"
+    "main.e27966d1.js.map": "/static/js/main.e27966d1.js.map"
   },
   "entrypoints": [
     "static/css/main.e7f70e3c.css",
-    "static/js/main.2e5dc61b.js"
+    "static/js/main.e27966d1.js"
   ]
 }
