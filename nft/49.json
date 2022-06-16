@@ -1,0 +1,15 @@
+{
+    "name": "TON Island #49",
+    "description": "TON Island is a collection of islands created for the The Open Network blockchain.",
+    "attributes": [{
+        "trait_type": "Background",
+        "value": "Sky with sunset and fog"
+    }, {
+        "trait_type": "Time",
+        "value": "Evening"
+    }, {
+        "trait_type": "Type",
+        "value": "2"
+    }],
+    "image": "https://tonisland.github.io/img/50.png"
+}
