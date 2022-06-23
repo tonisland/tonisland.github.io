@@ -3,7 +3,7 @@
     "description": "TON Island is a collection of islands created for the The Open Network blockchain.",
     "attributes": [{
         "trait_type": "Background",
-        "value": "Sky with cloud and lightning"
+        "value": "Sky with clouds and lightning"
     }, {
         "trait_type": "Time",
         "value": "Night"
