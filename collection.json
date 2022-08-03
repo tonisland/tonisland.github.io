@@ -3,7 +3,8 @@
     "description": "TON Island is a collection of islands created for the The Open Network blockchain. You can find out more about the collection in our telegram channel.",
     "image": "https://tonisland.github.io/img/logo.png",
     "social_links": [
-      "https://t.me/ton_island"
+      "https://t.me/ton_island",
+      "https://tonis.land"
     ],
     "cover_image": "https://tonisland.github.io/img/cover.gif"
 }
