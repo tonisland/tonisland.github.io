@@ -11,5 +11,6 @@
         "trait_type": "Type",
         "value": "1"
     }],
-    "image": "https://tonisland.github.io/img/16.png"
+    "image": "https://tonisland.github.io/img/16.png",
+    "animation_url": "https://tonisland.github.io/img/16.mp4",
 }
